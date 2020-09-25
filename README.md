@@ -25,7 +25,7 @@ The raw data given are every student's math and reading scores, as well as vario
 
 ---
 
-### Final Report
+## Final Report
 
 ### District Summary
 
@@ -51,11 +51,13 @@ The raw data given are every student's math and reading scores, as well as vario
 
 ---
 
-### Scores by Grade
+### Scores by Grade (9th to 12th)
 
 * **Math scores**
 
 ![school_summary](Images/math_by_grade.png)
+
+---
 
 * **Reding scores**
 
@@ -69,9 +71,13 @@ The raw data given are every student's math and reading scores, as well as vario
 
 ![school_summary](Images/avg_scores_spending.png)
 
+---
+
 * **School Size**
 
 ![school_summary](Images/avg_scores_size.png)
+
+---
 
 * **School Type**
 
