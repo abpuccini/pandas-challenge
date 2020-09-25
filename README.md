@@ -25,23 +25,23 @@ The raw data given are every student's math and reading scores, as well as vario
 
 ### Final Report
 
-**District Summary**
+### District Summary
 
 ![district_summary](Images/district_summary.png)
 
-**School Summary**
+### School Summary
 
 ![school_summary](Images/school_summary.png)
 
-**Top Performing Schools (By % Overall Passing)**
+### Top Performing Schools (By % Overall Passing)
 
 ![top_5](Images/top_5.png)
 
-**Bottom Performing Schools (By % Overall Passing)**
+### Bottom Performing Schools (By % Overall Passing)
 
-![school_summary](bottom_5.png)
+![school_summary](Images/bottom_5.png)
 
-**Scores by Grade**
+### Scores by Grade
 
 * **Math scores**
 
@@ -51,7 +51,7 @@ The raw data given are every student's math and reading scores, as well as vario
 
 ![school_summary](Images/reading_by_grade.png)
 
-**Scores by Different Categories**
+### Scores by Different Categories
 
 * **School Spending**
 
