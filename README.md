@@ -23,9 +23,13 @@ The raw data given are every student's math and reading scores, as well as vario
     * School Type
 * Analysis
 
+**City School Data file** >> [Click here](Resources/city_school_data_complete.csv)
+
 ---
 
 ## Final Report
+
+**To view calculation method** >> [Click here](https://nbviewer.jupyter.org/github/abpuccini/pandas-challenge/blob/master/PyCitySchools/PyCitySchool.ipynb)
 
 ### District Summary
 
