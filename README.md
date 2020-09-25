@@ -39,13 +39,13 @@ The raw data given are every student's math and reading scores, as well as vario
 
 ---
 
-### Top Performing Schools (By % Overall Passing)
+### Top 5 Performing Schools (By % Overall Passing)
 
 ![top_5](Images/top_5.png)
 
 ---
 
-### Bottom Performing Schools (By % Overall Passing)
+### Bottom 5 Performing Schools (By % Overall Passing)
 
 ![school_summary](Images/bottom_5.png)
 
