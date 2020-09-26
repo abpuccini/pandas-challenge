@@ -31,6 +31,8 @@ The raw data given are every student's math and reading scores, as well as vario
 
 **To view calculation method** >> [Click here](https://nbviewer.jupyter.org/github/abpuccini/pandas-challenge/blob/master/PyCitySchools/PyCitySchool.ipynb)
 
+**To download final report (excel file)** >> [Click here](https://github.com/abpuccini/pandas-challenge/raw/master/PyCitySchools/city_school_final_report.xlsx) 
+
 ### District Summary
 
 ![district_summary](Images/district_summary.png)
